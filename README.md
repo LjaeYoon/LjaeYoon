@@ -1,8 +1,14 @@
-## 이재윤
-==============
+# 이재윤
+
 ## About me
   
-ㅁㅁ
+## 학력
+
+## Algorithm
+
+## projects
+
+
 
 <!--
 **LjaeYoon/LjaeYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
