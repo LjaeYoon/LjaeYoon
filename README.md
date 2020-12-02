@@ -3,6 +3,8 @@
 ## About me
   
 ## 학력
+ + 보인고등학교
+ 
 
 ## Algorithm
 
