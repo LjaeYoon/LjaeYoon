@@ -17,7 +17,7 @@
 ## 기타
 
 <div>
-<img width="300" height="300" src="https://user-images.githubusercontent.com/38839352/101149771-ba95b380-3662-11eb-9d17-b80b6fa5431e.jpg" > </img>  
+<img width="150" height="300" src="https://user-images.githubusercontent.com/38839352/101149771-ba95b380-3662-11eb-9d17-b80b6fa5431e.jpg" > </img>  
 </div>
   + 2020.12 2020 인공지능 문제해결 경진대회 입상
 
