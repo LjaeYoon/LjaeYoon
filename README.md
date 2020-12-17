@@ -19,6 +19,7 @@
 <div>
 <img width="300" height="150" src="https://user-images.githubusercontent.com/38839352/101149771-ba95b380-3662-11eb-9d17-b80b6fa5431e.jpg" > </img>  
 </div>
+
   + 2020.02 DACON 천체 유형 분류 대회
   
   + 2020.03 DACON 공공 데이터 활용 온도 추정 AI 경진대회
