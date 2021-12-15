@@ -46,6 +46,8 @@
 
   + 2021.9 2021 연구데이터·AI 분석활용 경진대회
 
+  + 2021.12 2021 HEART DISEASE AI DATATHON 2021 (주제2. 심전도 데이터셋을 활용한 부정맥 진단 AI 모델 공모(심전도 데이터셋을 활용한 부정맥 진단 AI 모델 개발) )
+
 
 <!--
 **LjaeYoon/LjaeYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
