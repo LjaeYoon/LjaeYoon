@@ -1,7 +1,7 @@
 # 이재윤
 
 ## About me
-  + 인하대 Data Science lab 석사과정 
+  + 인하대 Data Science lab
   
 ## 학력
    + 보인고등학교 (2013년 졸업)
