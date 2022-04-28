@@ -9,7 +9,8 @@
    + 인하대학교 / 컴퓨터공학과 (2020년 졸업)
    + 인하대학교 대학원 / 전기컴퓨터공학과 (2022 졸업)
  
-
+## Paper
+   + Trading Algorithm Selection Using Time-Series Generative Adversarial Networks(TimeGAN을 활용한 트레이딩 알고리즘 선택)
 
 
 ## Algorithm
